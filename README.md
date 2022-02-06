@@ -1,2 +1,2 @@
-# react-router-styled-stackblitz
+# react-router-SPA-with-sticky-footer
 Created with CodeSandbox
